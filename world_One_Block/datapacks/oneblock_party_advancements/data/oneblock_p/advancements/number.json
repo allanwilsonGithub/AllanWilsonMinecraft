@@ -1,0 +1,26 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "And Number 9",
+            "color": "red"
+        },
+        "description": {
+            "text": "Eat 9 steaks",
+            "color": "green"
+        },
+        "icon": {
+            "item": "minecraft:cooked_beef"
+        },
+        "frame": "goal",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "steak": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "oneblock_p:root"
+}

@@ -1,0 +1,26 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Game of netherite",
+            "color": "red"
+        },
+        "description": {
+            "text": "Stand on a netherite block",
+            "color": "green"
+        },
+        "icon": {
+            "item": "minecraft:netherite_ingot"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "netherite": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "oneblock_p:craft"
+}

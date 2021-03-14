@@ -1,0 +1,34 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Why you going down?",
+            "color": "white"
+        },
+        "description": {
+            "text": "Fall into the void.",
+            "color": "green"
+        },
+        "icon": {
+            "item": "minecraft:ender_pearl"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "down": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "position": {
+                    "y": {
+                        "min": -20,
+                        "max": 1
+                    }
+                }
+            }
+        }
+    },
+    "parent": "oneblock:root"
+}

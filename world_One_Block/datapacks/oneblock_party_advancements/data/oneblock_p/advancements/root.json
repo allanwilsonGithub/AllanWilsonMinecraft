@@ -1,0 +1,38 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "OneBlock PARTY MODE!",
+            "color": "red",
+            "underlined": true
+        },
+        "description": {
+            "text": "Welcome to Oneblock Party Mode",
+            "color": "gray"
+        },
+        "icon": {
+            "item": "minecraft:firework_rocket"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false,
+        "background": "minecraft:textures/block/black_wool.png"
+    },
+    "criteria": {
+        "getdirt": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:dirt",
+                        "count": {
+                            "min": 1,
+                            "max": 1
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}
