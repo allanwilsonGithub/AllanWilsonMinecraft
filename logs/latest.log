@@ -1,39 +1,51 @@
-[21:48:17] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:48:18] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21:48:18] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:48:18] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:48:18] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21:48:18] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:48:18] [main/INFO]: Reloading ResourceManager: Default
-[21:48:19] [Worker-Main-4/INFO]: Loaded 7 recipes
-[21:48:20] [Worker-Main-4/INFO]: Loaded 927 advancements
-[21:48:22] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[21:48:22] [Server thread/INFO]: Loading properties
-[21:48:22] [Server thread/INFO]: Default game type: SURVIVAL
-[21:48:22] [Server thread/INFO]: Generating keypair
-[21:48:22] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:48:22] [Server thread/INFO]: Using epoll channel type
-[21:48:23] [Server thread/INFO]: Preparing level "world_3"
-[21:48:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:48:25] [Server thread/INFO]: Preparing spawn area: 0%
-[21:48:25] [Server thread/INFO]: Preparing spawn area: 0%
-[21:48:25] [Server thread/INFO]: Preparing spawn area: 0%
-[21:48:25] [Server thread/INFO]: Preparing spawn area: 0%
-[21:48:25] [Server thread/INFO]: Preparing spawn area: 0%
-[21:48:25] [Server thread/INFO]: Preparing spawn area: 0%
-[21:48:26] [Server thread/INFO]: Preparing spawn area: 31%
-[21:48:26] [Server thread/INFO]: Preparing spawn area: 76%
-[21:48:26] [Server thread/INFO]: Time elapsed: 3621 ms
-[21:48:26] [Server thread/INFO]: Done (3.787s)! For help, type "help"
-[21:48:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[21:48:30] [User Authenticator #1/INFO]: UUID of player AllanWilson is 747da378-eeca-41e7-b4ca-fde0e91752a2
-[21:48:31] [Server thread/INFO]: AllanWilson[/192.168.1.122:52326] logged in with entity id 228 at (34.774083721104866, 70.0, -30.623350384141396)
-[21:48:31] [Server thread/INFO]: AllanWilson joined the game
-[21:48:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4840ms or 96 ticks behind
-[21:49:04] [Server thread/INFO]: AllanWilson lost connection: Disconnected
-[21:49:04] [Server thread/INFO]: AllanWilson left the game
-[22:46:02] [User Authenticator #2/INFO]: UUID of player AllanWilson is 747da378-eeca-41e7-b4ca-fde0e91752a2
-[22:46:02] [Server thread/INFO]: AllanWilson[/192.168.1.122:52454] logged in with entity id 403 at (34.774083721104866, 70.0, -30.623350384141396)
-[22:46:02] [Server thread/INFO]: AllanWilson joined the game
-[22:46:13] [Server thread/INFO]: AllanWilson lost connection: Disconnected
-[22:46:13] [Server thread/INFO]: AllanWilson left the game
+[17:36:48] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:36:49] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:36:49] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:36:49] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:36:49] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:36:49] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:36:49] [main/INFO]: Reloading ResourceManager: Default
+[17:36:50] [Worker-Main-4/INFO]: Loaded 7 recipes
+[17:36:50] [Worker-Main-4/INFO]: Loaded 927 advancements
+[17:36:52] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[17:36:52] [Server thread/INFO]: Loading properties
+[17:36:52] [Server thread/INFO]: Default game type: SURVIVAL
+[17:36:52] [Server thread/INFO]: Generating keypair
+[17:36:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:36:53] [Server thread/INFO]: Using epoll channel type
+[17:36:53] [Server thread/INFO]: Preparing level "world_1"
+[17:36:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:36:55] [Server thread/INFO]: Preparing spawn area: 0%
+[17:36:55] [Server thread/INFO]: Preparing spawn area: 0%
+[17:36:55] [Server thread/INFO]: Preparing spawn area: 0%
+[17:36:55] [Server thread/INFO]: Preparing spawn area: 0%
+[17:36:55] [Server thread/INFO]: Preparing spawn area: 0%
+[17:36:55] [Server thread/INFO]: Preparing spawn area: 13%
+[17:37:01] [Worker-Main-9/INFO]: Preparing spawn area: 83%
+[17:37:01] [Worker-Main-5/INFO]: Preparing spawn area: 83%
+[17:37:01] [Worker-Main-5/INFO]: Preparing spawn area: 83%
+[17:37:01] [Worker-Main-9/INFO]: Preparing spawn area: 83%
+[17:37:01] [Worker-Main-9/INFO]: Preparing spawn area: 83%
+[17:37:01] [Worker-Main-9/INFO]: Preparing spawn area: 83%
+[17:37:01] [Worker-Main-9/INFO]: Preparing spawn area: 83%
+[17:37:01] [Worker-Main-9/INFO]: Preparing spawn area: 83%
+[17:37:01] [Worker-Main-5/INFO]: Preparing spawn area: 83%
+[17:37:01] [Worker-Main-5/INFO]: Preparing spawn area: 83%
+[17:37:01] [Server thread/INFO]: Preparing spawn area: 83%
+[17:37:01] [Worker-Main-6/INFO]: Preparing spawn area: 99%
+[17:37:02] [Server thread/INFO]: Time elapsed: 8757 ms
+[17:37:02] [Server thread/INFO]: Done (8.914s)! For help, type "help"
+[17:37:27] [User Authenticator #1/INFO]: UUID of player AllanWilson is 747da378-eeca-41e7-b4ca-fde0e91752a2
+[17:37:27] [Server thread/INFO]: AllanWilson[/192.168.1.122:53953] logged in with entity id 111 at (-367.4484046579196, 69.0, 29.358370893917574)
+[17:37:27] [Server thread/INFO]: AllanWilson joined the game
+[17:47:04] [Server thread/INFO]: AllanWilson has made the advancement [Sweet Dreams]
+[18:23:43] [Server thread/INFO]: AllanWilson has made the advancement [Acquire Hardware]
+[18:31:02] [Server thread/INFO]: Villager bfj['Villager'/11810, l='ServerLevel[world_1]', x=1094.69, y=69.00, z=292.46] died, message: 'Villager was slain by Zombie'
+[18:52:49] [Server thread/INFO]: AllanWilson has made the advancement [A Seedy Place]
+[19:31:35] [Server thread/INFO]: AllanWilson was slain by Iron Golem
+[19:32:22] [Server thread/INFO]: AllanWilson was slain by Iron Golem
+[19:48:35] [Server thread/INFO]: AllanWilson has made the advancement [What a Deal!]
+[19:57:00] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/28693, l='ServerLevel[world_1]', x=1080.68, y=62.05, z=376.39]
+[19:57:58] [Server thread/INFO]: AllanWilson has made the advancement [Best Friends Forever]
+[20:14:08] [Server thread/INFO]: AllanWilson lost connection: Disconnected
+[20:14:08] [Server thread/INFO]: AllanWilson left the game

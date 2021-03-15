@@ -1,2 +1,2 @@
 #!/bin/bash
-java -jar server.jar --nogui &
+sudo java -jar server.jar --nogui
