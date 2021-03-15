@@ -32,3 +32,8 @@
 [21:48:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4840ms or 96 ticks behind
 [21:49:04] [Server thread/INFO]: AllanWilson lost connection: Disconnected
 [21:49:04] [Server thread/INFO]: AllanWilson left the game
+[22:46:02] [User Authenticator #2/INFO]: UUID of player AllanWilson is 747da378-eeca-41e7-b4ca-fde0e91752a2
+[22:46:02] [Server thread/INFO]: AllanWilson[/192.168.1.122:52454] logged in with entity id 403 at (34.774083721104866, 70.0, -30.623350384141396)
+[22:46:02] [Server thread/INFO]: AllanWilson joined the game
+[22:46:13] [Server thread/INFO]: AllanWilson lost connection: Disconnected
+[22:46:13] [Server thread/INFO]: AllanWilson left the game
