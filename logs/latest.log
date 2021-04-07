@@ -1,121 +1,72 @@
-[01:31:43] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01:31:43] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:31:43] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:31:43] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01:31:43] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:31:43] [main/INFO]: Reloading ResourceManager: Default
-[01:31:47] [Worker-Main-14/INFO]: Loaded 7 recipes
-[01:31:49] [Worker-Main-14/INFO]: Loaded 927 advancements
-[01:31:56] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[01:31:56] [Server thread/INFO]: Loading properties
-[01:31:56] [Server thread/INFO]: Default game type: SURVIVAL
-[01:31:56] [Server thread/INFO]: Generating keypair
-[01:31:57] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:31:58] [Server thread/INFO]: Using epoll channel type
-[01:31:59] [Server thread/INFO]: Preparing level "world_1"
-[01:31:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:32:09] [Server thread/INFO]: Preparing spawn area: 0%
-[01:32:09] [Server thread/INFO]: Preparing spawn area: 0%
-[01:32:09] [Server thread/INFO]: Preparing spawn area: 0%
-[01:32:09] [Server thread/INFO]: Preparing spawn area: 0%
-[01:32:09] [Server thread/INFO]: Preparing spawn area: 0%
-[01:32:09] [Server thread/INFO]: Preparing spawn area: 0%
-[01:32:09] [Server thread/INFO]: Preparing spawn area: 0%
-[01:32:09] [Server thread/INFO]: Preparing spawn area: 0%
-[01:32:09] [Server thread/INFO]: Preparing spawn area: 0%
-[01:32:09] [Server thread/INFO]: Preparing spawn area: 0%
-[01:32:09] [Server thread/INFO]: Preparing spawn area: 0%
-[01:32:09] [Server thread/INFO]: Preparing spawn area: 0%
-[01:32:09] [Server thread/INFO]: Preparing spawn area: 0%
-[01:32:09] [Server thread/INFO]: Preparing spawn area: 0%
-[01:32:09] [Server thread/INFO]: Preparing spawn area: 0%
-[01:32:09] [Server thread/INFO]: Preparing spawn area: 0%
-[01:32:09] [Server thread/INFO]: Preparing spawn area: 0%
-[01:32:09] [Server thread/INFO]: Preparing spawn area: 0%
-[01:32:09] [Server thread/INFO]: Preparing spawn area: 0%
-[01:32:09] [Server thread/INFO]: Preparing spawn area: 0%
-[01:32:09] [Server thread/INFO]: Preparing spawn area: 0%
-[01:32:11] [Server thread/INFO]: Preparing spawn area: 0%
-[01:32:11] [Server thread/INFO]: Preparing spawn area: 0%
-[01:32:11] [Server thread/INFO]: Preparing spawn area: 0%
-[01:32:12] [Server thread/INFO]: Preparing spawn area: 44%
-[01:32:12] [Server thread/INFO]: Preparing spawn area: 44%
-[01:32:29] [Worker-Main-8/INFO]: Preparing spawn area: 83%
-[01:32:29] [Worker-Main-12/INFO]: Preparing spawn area: 83%
-[01:32:29] [Worker-Main-13/INFO]: Preparing spawn area: 83%
-[01:32:29] [Worker-Main-13/INFO]: Preparing spawn area: 83%
-[01:32:29] [Worker-Main-11/INFO]: Preparing spawn area: 83%
-[01:32:29] [Worker-Main-8/INFO]: Preparing spawn area: 83%
-[01:32:29] [Worker-Main-10/INFO]: Preparing spawn area: 83%
-[01:32:29] [Worker-Main-11/INFO]: Preparing spawn area: 83%
-[01:32:29] [Worker-Main-14/INFO]: Preparing spawn area: 83%
-[01:32:29] [Worker-Main-14/INFO]: Preparing spawn area: 83%
-[01:32:29] [Worker-Main-14/INFO]: Preparing spawn area: 83%
-[01:32:29] [Worker-Main-14/INFO]: Preparing spawn area: 83%
-[01:32:29] [Worker-Main-14/INFO]: Preparing spawn area: 83%
-[01:32:29] [Worker-Main-14/INFO]: Preparing spawn area: 83%
-[01:32:29] [Worker-Main-9/INFO]: Preparing spawn area: 83%
-[01:32:29] [Worker-Main-9/INFO]: Preparing spawn area: 83%
-[01:32:29] [Worker-Main-9/INFO]: Preparing spawn area: 83%
-[01:32:29] [Worker-Main-9/INFO]: Preparing spawn area: 83%
-[01:32:29] [Worker-Main-9/INFO]: Preparing spawn area: 83%
-[01:32:29] [Worker-Main-9/INFO]: Preparing spawn area: 83%
-[01:32:29] [Worker-Main-9/INFO]: Preparing spawn area: 83%
-[01:32:29] [Worker-Main-8/INFO]: Preparing spawn area: 83%
-[01:32:29] [Worker-Main-12/INFO]: Preparing spawn area: 83%
-[01:32:29] [Worker-Main-14/INFO]: Preparing spawn area: 83%
-[01:32:29] [Worker-Main-10/INFO]: Preparing spawn area: 83%
-[01:32:29] [Worker-Main-14/INFO]: Preparing spawn area: 83%
-[01:32:29] [Worker-Main-10/INFO]: Preparing spawn area: 83%
-[01:32:29] [Worker-Main-14/INFO]: Preparing spawn area: 83%
-[01:32:29] [Worker-Main-11/INFO]: Preparing spawn area: 83%
-[01:32:29] [Worker-Main-14/INFO]: Preparing spawn area: 83%
-[01:32:29] [Worker-Main-8/INFO]: Preparing spawn area: 83%
-[01:32:29] [Worker-Main-11/INFO]: Preparing spawn area: 83%
-[01:32:29] [Worker-Main-11/INFO]: Preparing spawn area: 83%
-[01:32:29] [Server thread/INFO]: Preparing spawn area: 83%
-[01:32:30] [Worker-Main-14/INFO]: Preparing spawn area: 99%
-[01:32:30] [Worker-Main-10/INFO]: Preparing spawn area: 99%
-[01:32:30] [Worker-Main-8/INFO]: Preparing spawn area: 99%
-[01:32:31] [Worker-Main-10/INFO]: Preparing spawn area: 99%
-[01:32:31] [Worker-Main-14/INFO]: Preparing spawn area: 99%
-[01:32:32] [Worker-Main-9/INFO]: Preparing spawn area: 99%
-[01:32:33] [Server thread/INFO]: Preparing spawn area: 99%
-[01:32:33] [Server thread/INFO]: Time elapsed: 33294 ms
-[01:32:33] [Server thread/INFO]: Done (33.910s)! For help, type "help"
-[01:36:55] [User Authenticator #1/INFO]: UUID of player AllanWilson is 747da378-eeca-41e7-b4ca-fde0e91752a2
-[01:36:56] [Server thread/INFO]: AllanWilson[/192.168.1.122:50071] logged in with entity id 27 at (1115.985953943212, 70.0, 277.0851470355361)
-[01:36:56] [Server thread/INFO]: AllanWilson joined the game
-[01:37:43] [Server thread/INFO]: AllanWilson lost connection: Disconnected
-[01:37:43] [Server thread/INFO]: AllanWilson left the game
-[01:38:24] [User Authenticator #2/INFO]: UUID of player AllanWilson is 747da378-eeca-41e7-b4ca-fde0e91752a2
-[01:38:25] [Server thread/INFO]: AllanWilson[/192.168.1.118:42828] logged in with entity id 369 at (1115.985953943212, 70.0, 277.0851470355361)
-[01:38:25] [Server thread/INFO]: AllanWilson joined the game
-[01:38:58] [User Authenticator #3/INFO]: UUID of player AllanWilson is 747da378-eeca-41e7-b4ca-fde0e91752a2
-[01:38:58] [Server thread/INFO]: AllanWilson lost connection: Disconnected
-[01:38:58] [Server thread/INFO]: AllanWilson left the game
-[01:38:59] [Server thread/WARN]: handleDisconnection() called twice
-[01:38:59] [Server thread/INFO]: AllanWilson[/192.168.1.122:50085] logged in with entity id 675 at (1115.985953943212, 70.0, 277.0851470355361)
-[01:38:59] [Server thread/INFO]: AllanWilson joined the game
-[01:39:59] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/827, l='ServerLevel[world_1]', x=1109.14, y=69.00, z=286.17]
-[01:46:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
-[01:46:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6326ms or 126 ticks behind
-[01:47:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2372ms or 47 ticks behind
-[01:47:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2668ms or 53 ticks behind
-[01:49:14] [Server thread/INFO]: AllanWilson lost connection: Timed out
-[01:49:14] [Server thread/INFO]: AllanWilson left the game
-[01:52:39] [User Authenticator #4/INFO]: UUID of player AllanWilson is 747da378-eeca-41e7-b4ca-fde0e91752a2
-[01:52:39] [Server thread/INFO]: AllanWilson[/192.168.1.122:50113] logged in with entity id 1889 at (1115.605984427819, 70.0, 277.38626487742005)
-[01:52:39] [Server thread/INFO]: AllanWilson joined the game
-[02:00:52] [User Authenticator #5/INFO]: UUID of player paddyharper1974 is 70071d85-7f67-46bb-a364-0673791a6cf9
-[02:00:53] [Server thread/INFO]: paddyharper1974[/192.168.1.118:43832] logged in with entity id 3085 at (-202.5, 71.0, -27.5)
-[02:00:53] [Server thread/INFO]: paddyharper1974 joined the game
-[02:06:06] [Server thread/INFO]: <paddyharper1974> hello
-[02:10:55] [Server thread/INFO]: [AllanWilson: Teleported paddyharper1974 to AllanWilson]
-[02:10:55] [Server thread/WARN]: paddyharper1974 moved too quickly! 2208.431088991959,7.0,20.52333233952521
-[02:10:55] [Server thread/WARN]: paddyharper1974 moved too quickly! 2208.431088991959,7.0,20.52333233952521
-[02:11:47] [Server thread/INFO]: AllanWilson lost connection: Disconnected
-[02:11:47] [Server thread/INFO]: AllanWilson left the game
-[02:12:10] [Server thread/INFO]: paddyharper1974 has made the advancement [Sweet Dreams]
-[02:13:43] [Server thread/INFO]: paddyharper1974 lost connection: Disconnected
-[02:13:43] [Server thread/INFO]: paddyharper1974 left the game
+[18:33:07] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:33:07] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:33:07] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:33:07] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:33:07] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:33:07] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:33:07] [main/INFO]: Reloading ResourceManager: Default
+[18:33:09] [Worker-Main-12/INFO]: Loaded 7 recipes
+[18:33:09] [Worker-Main-12/INFO]: Loaded 927 advancements
+[18:33:11] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[18:33:11] [Server thread/INFO]: Loading properties
+[18:33:11] [Server thread/INFO]: Default game type: SURVIVAL
+[18:33:11] [Server thread/INFO]: Generating keypair
+[18:33:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:33:11] [Server thread/INFO]: Using epoll channel type
+[18:33:11] [Server thread/INFO]: Preparing level "world_1"
+[18:33:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:33:13] [Server thread/INFO]: Preparing spawn area: 0%
+[18:33:13] [Server thread/INFO]: Preparing spawn area: 0%
+[18:33:13] [Server thread/INFO]: Preparing spawn area: 0%
+[18:33:13] [Server thread/INFO]: Preparing spawn area: 0%
+[18:33:14] [Server thread/INFO]: Preparing spawn area: 0%
+[18:33:14] [Server thread/INFO]: Preparing spawn area: 44%
+[18:33:18] [Worker-Main-13/INFO]: Preparing spawn area: 83%
+[18:33:18] [Worker-Main-13/INFO]: Preparing spawn area: 83%
+[18:33:18] [Worker-Main-13/INFO]: Preparing spawn area: 83%
+[18:33:18] [Worker-Main-11/INFO]: Preparing spawn area: 83%
+[18:33:18] [Worker-Main-11/INFO]: Preparing spawn area: 83%
+[18:33:18] [Worker-Main-11/INFO]: Preparing spawn area: 83%
+[18:33:18] [Worker-Main-11/INFO]: Preparing spawn area: 83%
+[18:33:18] [Worker-Main-9/INFO]: Preparing spawn area: 99%
+[18:33:18] [Server thread/INFO]: Time elapsed: 6896 ms
+[18:33:18] [Server thread/INFO]: Done (7.055s)! For help, type "help"
+[18:33:59] [User Authenticator #1/INFO]: UUID of player paddyharper1974 is 70071d85-7f67-46bb-a364-0673791a6cf9
+[18:33:59] [Server thread/INFO]: paddyharper1974[/192.168.1.118:58854] logged in with entity id 29 at (1116.7292644753536, 70.0, 274.300000011921)
+[18:33:59] [Server thread/INFO]: paddyharper1974 joined the game
+[18:36:27] [User Authenticator #2/INFO]: UUID of player FishyFishy1974 is 747da378-eeca-41e7-b4ca-fde0e91752a2
+[18:36:27] [Server thread/INFO]: FishyFishy1974[/192.168.1.122:50651] logged in with entity id 631 at (1118.7550507815884, 70.0, 277.69477275694686)
+[18:36:27] [Server thread/INFO]: FishyFishy1974 joined the game
+[18:37:42] [Server thread/INFO]: FishyFishy1974 lost connection: Timed out
+[18:37:42] [Server thread/INFO]: FishyFishy1974 left the game
+[18:40:17] [User Authenticator #3/INFO]: UUID of player FishyFishy1974 is 747da378-eeca-41e7-b4ca-fde0e91752a2
+[18:40:17] [Server thread/INFO]: FishyFishy1974[/192.168.1.122:54270] logged in with entity id 1174 at (1118.7550507815884, 70.0, 277.69477275694686)
+[18:40:17] [Server thread/INFO]: FishyFishy1974 joined the game
+[18:43:54] [Server thread/INFO]: paddyharper1974 has made the advancement [Stone Age]
+[18:49:03] [Server thread/INFO]: paddyharper1974 has made the advancement [Acquire Hardware]
+[19:01:55] [Server thread/INFO]: paddyharper1974 has made the advancement [Isn't It Iron Pick]
+[19:07:48] [Server thread/INFO]: FishyFishy1974 has made the advancement [Diamonds!]
+[19:10:57] [Server thread/INFO]: FishyFishy1974 tried to swim in lava
+[19:10:57] [Server thread/INFO]: paddyharper1974 tried to swim in lava
+[19:10:59] [Server thread/WARN]: FishyFishy1974 moved too quickly! 3.199999988079071,62.5625,-54.10807987657097
+[19:29:57] [Server thread/INFO]: FishyFishy1974 fell from a high place
+[19:37:59] [Server thread/INFO]: [FishyFishy1974: Set the time to 100]
+[19:48:35] [Server thread/INFO]: [FishyFishy1974: Set the time to 100]
+[19:49:20] [Server thread/INFO]: paddyharper1974 drowned
+[19:55:52] [Server thread/INFO]: FishyFishy1974 fell from a high place
+[19:57:18] [Server thread/INFO]: paddyharper1974 was pricked to death
+[19:57:38] [Server thread/INFO]: FishyFishy1974 fell from a high place
+[19:59:33] [Server thread/INFO]: [FishyFishy1974: Set the time to 100]
+[20:01:39] [Server thread/INFO]: paddyharper1974 drowned
+[20:03:46] [Server thread/INFO]: FishyFishy1974 drowned
+[20:08:14] [Server thread/INFO]: [FishyFishy1974: Teleported paddyharper1974 to FishyFishy1974]
+[20:08:14] [Server thread/WARN]: paddyharper1974 moved too quickly! -50.356779566830255,32.0,10.073138799269202
+[20:09:56] [Server thread/INFO]: [FishyFishy1974: Set the time to 1000]
+[20:13:10] [Server thread/INFO]: FishyFishy1974 drowned
+[20:13:33] [Server thread/INFO]: [FishyFishy1974: Teleported FishyFishy1974 to paddyharper1974]
+[20:13:33] [Server thread/WARN]: FishyFishy1974 moved too quickly! -36.65535143922716,18.0,27.651670152523934
+[20:13:33] [Server thread/WARN]: FishyFishy1974 moved too quickly! -36.65535143922716,18.0,27.651670152523934
+[20:14:56] [Server thread/INFO]: FishyFishy1974 lost connection: Disconnected
+[20:14:56] [Server thread/INFO]: FishyFishy1974 left the game
+[20:15:21] [Server thread/INFO]: paddyharper1974 lost connection: Disconnected
+[20:15:21] [Server thread/INFO]: paddyharper1974 left the game
