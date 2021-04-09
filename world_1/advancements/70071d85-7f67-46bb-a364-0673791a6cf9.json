@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2021-04-09 19:04:34 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2021-04-07 02:37:38 +0300"
@@ -290,7 +296,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2021-04-07 02:53:19 +0300",
-      "bread": "2021-04-07 18:54:57 +0300"
+      "bread": "2021-04-07 18:54:57 +0300",
+      "suspicious_stew": "2021-04-09 19:04:34 +0300"
     },
     "done": false
   },
@@ -384,15 +391,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2021-04-08 19:10:29 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2021-04-08 18:53:56 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2021-04-08 19:10:29 +0300"
     },
     "done": true
   },
